@@ -1,0 +1,19 @@
+<Project>
+	<ItemGroup Condition="'$(PkgPath)' != ''">
+		<Compile Remove="$(PkgPath)/IgorDev/Assemblies/**" />
+		<Compile Remove="$(PkgPath)/IgorDev/Data/**" />
+		<Compile Remove="$(PkgPath)/IgorDev/SqlScripts/**" />
+		<Compile Remove="$(PkgPath)/IgorDev/Schemas\**" />
+		<Compile Remove="$(PkgPath)/IgorDev/Resources/**" />
+		<EmbeddedResource Remove="$(PkgPath)/IgorDev/Assemblies/**" />
+		<EmbeddedResource Remove="$(PkgPath)/IgorDev/Data/**" />
+		<EmbeddedResource Remove="$(PkgPath)/IgorDev/SqlScripts/**" />
+		<EmbeddedResource Remove="$(PkgPath)/IgorDev/Schemas/**" />
+		<EmbeddedResource Remove="$(PkgPath)/IgorDev/Resources/**" />
+		<None Remove="$(PkgPath)/IgorDev/Assemblies/**" />
+		<None Remove="$(PkgPath)/IgorDev/Data/**" />
+		<None Remove="$(PkgPath)/IgorDev/SqlScripts/**" />
+		<None Remove="$(PkgPath)/IgorDev/Schemas/**" />
+		<None Remove="$(PkgPath)/IgorDev/Resources/**" />
+  </ItemGroup>
+</Project>

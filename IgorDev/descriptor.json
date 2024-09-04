@@ -1,0 +1,17 @@
+﻿{
+  "Descriptor": {
+    "UId": "f58f108d-464e-f822-535f-9955443cb2c0",
+    "Name": "IgorDev",
+    "Type": 1,
+    "ModifiedOnUtc": "\/Date(1725378702000)\/",
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/IgorDev.csproj",
+    "DependsOn": [
+      {
+        "UId": "e14dcfb1-e53c-4439-a876-af7f97083ed9",
+        "PackageVersion": "7.8.0",
+        "Name": "SalesEnterprise"
+      }
+    ]
+  }
+}
