@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "9a0f4db9-2649-4450-baae-0e9c5647099b",
+    "Name": "UsrRealtyFreedomUIBusinessRule",
+    "ModifiedOnUtc": "\/Date(1725520413000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Нерухомість (FreedomUI) (Бизнес правила)",
+    "DependsOn": []
+  }
+}

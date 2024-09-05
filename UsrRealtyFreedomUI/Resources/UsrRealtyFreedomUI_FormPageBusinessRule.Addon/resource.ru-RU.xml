@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.5fa3d306-ac3e-efa3-fa7e-9c9703fbfa15.Caption" Value="Показать элементы: Коментарій" />
+			<Item Name="Caption" Value="Страница записи Нерухомість (FreedomUI) (Бизнес правила)" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Перегляд нерухомості (FreedomUI)" />
+			<Item Name="Columns.UsrComment.Caption" Value="Коментар" />
+			<Item Name="Columns.UsrManager.Caption" Value="Менеджер" />
+			<Item Name="Columns.UsrParantRealty.Caption" Value="Батьківська нерухомість" />
+			<Item Name="Columns.UsrPotentialCustomer.Caption" Value="Потенційний клієнт" />
+			<Item Name="Columns.UsrVisitDateTime.Caption" Value="Дата/час перегляду" />
+		</Items>
+	</Group>
+</Resources>

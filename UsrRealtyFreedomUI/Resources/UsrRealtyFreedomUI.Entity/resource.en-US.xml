@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Нерухомість (FreedomUI)" />
+			<Item Name="Columns.UsrArea.Caption" Value="Площа, м2" />
+			<Item Name="Columns.UsrCity.Caption" Value="Місто" />
+			<Item Name="Columns.UsrComment.Caption" Value="Коментарій" />
+			<Item Name="Columns.UsrCountry.Caption" Value="Країна " />
+			<Item Name="Columns.UsrManager.Caption" Value="Менеджер" />
+			<Item Name="Columns.UsrName.Caption" Value="Name" />
+			<Item Name="Columns.UsrOfferType.Caption" Value="Тип пропозиції" />
+			<Item Name="Columns.UsrPriceUSD.Caption" Value="Ціна, USD" />
+			<Item Name="Columns.UsrType.Caption" Value="Тип" />
+		</Items>
+	</Group>
+</Resources>

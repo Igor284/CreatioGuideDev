@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "7f0c5f6b-3af5-4202-9c1d-db3ba7a000d3",
+    "Name": "UsrRealtyVisitPage",
+    "ModifiedOnUtc": "\/Date(1725524514000)\/",
+    "Parent": {
+      "UId": "ecdcc8ff-272c-4957-9381-7d74ce17e140",
+      "Name": "BaseMiniPageTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Модальная страница записи Перегляд нерухомості (FreedomUI)",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Нерухомість (FreedomUI) form page" />
+			<Item Name="LocalizableStrings.addRecord_0s5plm0_caption.Value" Value="Добавить" />
+			<Item Name="LocalizableStrings.addRecord_576vxfg_caption.Value" Value="Добавить" />
+			<Item Name="LocalizableStrings.addRecord_8pybhgo_caption.Value" Value="Добавить" />
+			<Item Name="LocalizableStrings.addRecord_mjyga9o_caption.Value" Value="Добавить" />
+			<Item Name="LocalizableStrings.addRecord_tdvoqrd_caption.Value" Value="Добавить" />
+			<Item Name="LocalizableStrings.Button_vsmvl7r_caption.Value" Value="БУМ!" />
+			<Item Name="LocalizableStrings.ExpansionPanel_nyg61po_title.Value" Value="Перегляд нерухомості (FreedomUI)" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_0o8s1de_caption.Value" Value="Добавить" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_vfdmou4_caption.Value" Value="Экспорт в Excel" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_tqye8gf_caption.Value" Value="Импорт данных" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_2di0eqh_caption.Value" Value="Обновить" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_lvfrm7r_placeholder.Value" Value="Поиск" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_cuolnls_caption.Value" Value="Действия" />
+		</Items>
+	</Group>
+</Resources>

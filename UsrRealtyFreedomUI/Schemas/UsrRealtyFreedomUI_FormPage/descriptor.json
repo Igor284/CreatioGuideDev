@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "7b9c7ca9-fcf9-4d24-bde3-f850c07d31d4",
+    "Name": "UsrRealtyFreedomUI_FormPage",
+    "ModifiedOnUtc": "\/Date(1725525432000)\/",
+    "Parent": {
+      "UId": "3b2e117f-8c6b-4ca5-80a2-7ebb497cddf9",
+      "Name": "PageWithTabsFreedomTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Нерухомість (FreedomUI) form page",
+    "DependsOn": []
+  }
+}
